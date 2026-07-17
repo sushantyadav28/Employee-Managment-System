@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const BASE_URL = "https://employee-managment-system-cv3c.onrender.com";
+const BASE_URL = "https://employee-managment-system-cv3c.onrender.com/api";
 // const BASE_URL = "https://employee-managment-system-cv3c.onrender.com/";
 
 
