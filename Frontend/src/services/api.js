@@ -1,6 +1,8 @@
 import axios from "axios";
 
 const BASE_URL = "http://localhost:4000/api";
+// const BASE_URL = "https://employee-managment-system-cv3c.onrender.com/";
+
 
 export const createEmployee = (data) =>
   axios.post(`${BASE_URL}/createemployee`, data);

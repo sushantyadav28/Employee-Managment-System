@@ -11,6 +11,8 @@ app.use(cors());
 app.use(express.json());
 app.use("/api", employeeRoutes);
 
+
+
 connectDB();
 
 app.get("/", (req, res) => {
