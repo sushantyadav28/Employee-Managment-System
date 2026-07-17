@@ -8,7 +8,7 @@ A full-stack Employee Management System built using the MERN Stack. This applica
 
 🔗 **Frontend:** https://employee-managment-site.netlify.app/
 
-🔗 **Backend API:** https://employee-managment-system-cv3c.onrender.com/api
+🔗 **Backend API:** https://employee-managment-system-cv3c.onrender.com
 
 ---
 
